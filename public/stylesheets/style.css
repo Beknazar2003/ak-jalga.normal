@@ -35,6 +35,12 @@ strong{
 .grey-text{
     color: #767676;
 }
+.red{
+    background-color: red;
+}
+.border-red{
+    border-color: red;
+}
 /* css styles */
 
 .center-logo img{
